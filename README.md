@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/nolood?logo=github&style=for-the-ba
 
 <p align="left">
   <a href="https://www.leetcode.com/nolood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nolood" height="30" width="40" /></a>
-  <a href="https://discord/nolood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nolood" height="30" width="40" /></a>
+  <a href="https://discord.gg/nolood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nolood" height="30" width="40" /></a>
 </p>
 
 ### Badges
