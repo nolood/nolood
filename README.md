@@ -5,8 +5,7 @@ Web developer and a bit of a designer
 -------------------------------------
 
 * 🌍  I'm based in Russia
-* ✉️  You can contact me at [a9514548799@gmail.com](mailto:a9514548799@gmail.com)
-* ✉️  Also you can contact me at [@nolood](https://web.telegram.org/)
+* ✉️  You can contact me [a9514548799@gmail.com](mailto:a9514548799@gmail.com) and [@nolood](https://web.telegram.org/)
 
 <a href="https://www.github.com/nolood" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nolood?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -29,7 +28,7 @@ src="https://img.shields.io/github/followers/nolood?logo=github&style=for-the-ba
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.github.com/nolood" target="_blank" rel="noreferrer">
+  <a href="https://web.telegram.org/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
