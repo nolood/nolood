@@ -6,7 +6,7 @@ Web developer and a bit of a designer
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [a9514548799@gmail.com](mailto:a9514548799@gmail.com)
-* ✉️  Also you can contact me at [a9514548799@gmail.com](mailto:a9514548799@gmail.com)
+* ✉️  Also you can contact me at [@nolood](https://web.telegram.org/)
 
 <a href="https://www.github.com/nolood" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nolood?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
